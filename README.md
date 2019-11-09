@@ -2,8 +2,6 @@
 
 A React component for viewing an STL object from a given URL by utilizing Three.js
 
-## Looking for contributors
-
 *Note that you will still have to abide by the rules of CORS so you won't just be able to load a 3D file from someone else's site*
 
 # Installation
